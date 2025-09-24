@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/tailwind/tailwind-original.svg" height="40" alt="tailwind logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo" />
   <img width="12" />
 </div>
 
