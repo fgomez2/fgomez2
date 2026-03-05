@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📖 I'm currently learning: React, TypeScript, Node.js<br>🎯 Goals: Build a full-stack project.</p>
+<p align="left">📖 I'm currently working with: React, TypeScript, Node.js</p>
 
 ###
 
