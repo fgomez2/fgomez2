@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Fernando, a web developer student from Spain.</p>
+<p align="left">Hi, I'm Fernando, a junior web developer from Spain.</p>
 
 ###
 
