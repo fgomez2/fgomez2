@@ -1,4 +1,4 @@
-<h1 align="left">Hey there! 🚀 Web Developer in the making.</h1>
+<h1 align="left">Hey there! 🚀 Full-Stack Developer in the making.</h1>
 
 ###
 
